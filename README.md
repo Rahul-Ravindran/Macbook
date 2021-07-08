@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/HTML-70%25-yellowgreen"> <img src="https://img.shields.io/badge/CSS-10%25-yellow"> <img src="https://img.shields.io/badge/SASS-90%25-brightgreen"> <img src="https://img.shields.io/badge/XD-30%25-green">
+
 # MacBook
 
 **MacBook** is a HTML design of *Apple MacBook Air* using pure `HTML`and `CSS`
